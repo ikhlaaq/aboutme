@@ -81,9 +81,9 @@ margin: 40px auto 60px;
   bottom: 300px;
 }
 .profile-img {
-  width: 257px;
-  height: 346px;
-  border-radius: 20px;
+  width: 200px;
+  height: 230px;
+  border-radius: 5px;
 }
 .skills-img {
   width: 25%;
