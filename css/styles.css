@@ -80,6 +80,11 @@ margin: 40px auto 60px;
   left: 250px;
   bottom: 300px;
 }
+.profile-img {
+  width: 257px;
+  height: 346px;
+  border-radius: 20px;
+}
 .skills-img {
   width: 25%;
   height: 25%;
